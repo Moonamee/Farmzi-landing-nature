@@ -209,15 +209,6 @@ body {
     transition: 0.3s;
     border: none;
 }
-@keyframes fadein {
-    0% {
-        opargb(105, 105, 105): 0;
-    }
-    100% {
-        opacity: 1;
-    }
-}
-
 
 /* MAIN CONTENT --------------------------- */
 .main-content {
@@ -766,22 +757,22 @@ body {
 
 
 .swiper-button-next, .swiper-rtl .swiper-button-prev {
-    right: 975px;
+    right: 30px;
     left: auto;
 }
 .swiper-button-prev, .swiper-rtl .swiper-button-next {
-    left: 0;
+    left: 83%;
     right: auto;
 }
 
 .swiper-button-next:after, .swiper-button-prev:after {
     font-size: 25px;
-    color: #177165;
+    color: #A4D6CF;
 }
 
 .swiper-button-next, .swiper-button-prev {
     top: 85%;
-    border: 2px solid #177165;
+    border: 2px solid #A4D6CF;
     border-radius: 5px;
     width: 70px;
     height: 70px;
