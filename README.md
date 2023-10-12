@@ -1,4 +1,5 @@
-# Farmzi-landing-nature![Screenshot 2023-10-12 110940](https://github.com/Moonamee/Farmzi-landing-nature/assets/116831065/9a7d3821-d04a-41a1-8d7c-d6f112d7e902)
+# Farmzi-landing-nature![Screenshot 2023-10-12 111052](https://github.com/Moonamee/Farmzi-landing-nature/assets/116831065/18dfee6b-e9c3-40c9-9b02-39c6982d83e9)
+
 
 
 Mobile OK
